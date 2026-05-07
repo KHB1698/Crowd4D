@@ -51,6 +51,10 @@ If you use DyCrowd, please cite:
 
 ---
 
-## 📄 License
+## � Acknowledgements
+
+We thank the authors of [DyCrowd](https://github.com/KHB1698/DyCrowd) for their foundational work on dynamic crowd reconstruction.
+
+## �📄 License
 
 This project is released under the MIT License.
