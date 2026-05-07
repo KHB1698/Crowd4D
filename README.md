@@ -1,8 +1,8 @@
 # [ICML 2026] Crowd4D: Scene-Aware Monocular 4D Crowd Reconstruction
 
-**[Hongbo Kang](https://khb1698.github.io/)**<sup>🌟</sup>, **[Tianyi Zhou](#)**, **[Qingyang Yang](#)**, **[Hongwei Wen](#)**, **[Jing Huang](#)**, **[Yu-Kun Lai](https://yukunlai.github.io/)**, **[Kun Li](http://cic.tju.edu.cn/faculty/likun/)**<sup>🌟</sup>
+**[Hongbo Kang](https://khb1698.github.io/)**, **[Tianyi Zhou](#)**, **[Qingyang Yang](#)**, **[Hongwei Wen](#)**, **[Jing Huang](#)**, **[Yu-Kun Lai](https://yukunlai.github.io/)**, **[Kun Li](http://cic.tju.edu.cn/faculty/likun/)**<sup>🌟</sup>
 
-🌟Corresponding Authors
+🌟Corresponding Author
 
 📄 **[Paper](#)** | 🌍 **[Project Page](#)** | 💻 **[Code](https://github.com/KHB1698/Crowd4D)**
 
