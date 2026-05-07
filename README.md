@@ -38,7 +38,7 @@ If you find Crowd4D useful for your research, please cite:
 }
 ```
 
-If you use DyCrowd, please cite:
+If you find our related work DyCrowd useful, please cite:
 
 ```bibtex
 @article{wen2025dycrowd,
