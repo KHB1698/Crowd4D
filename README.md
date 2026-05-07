@@ -13,7 +13,6 @@
 ## 📰 News
 
 - **2026-05:** Paper accepted to ICML 2026! Code will be released soon.
-- **2026-05:** Initial project page and arXiv preprint available.
 
 ---
 
