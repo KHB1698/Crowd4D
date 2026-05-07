@@ -36,6 +36,13 @@ If you find this work useful for your research, please cite:
   booktitle = {International Conference on Machine Learning (ICML)},
   year={2026}
 }
+
+@article{wen2025dycrowd,
+  author = {Hao Wen, Hongbo Kang, Jian Ma, Jing Huang, Yuanwang Yang, Haozhe Lin, Yu-Kun Lai and Kun Li},
+  title = {DyCrowd: Towards Dynamic Crowd Reconstruction from a Large-scene Video},
+  journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2025}
+}
 ```
 
 ---
