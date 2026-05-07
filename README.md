@@ -22,7 +22,6 @@
 - **Human-Scene Interaction Proxy (HSIP)** – A compact intermediate representation built on Scene Interaction Point Cloud (SIPC) and Scene Interaction Surface (SIS) that provides temporally stable geometric anchors.
 - **Crowd Structural Coherence Regularization (CSCR)** – Enforces soft temporal consistency on pairwise relative displacements within local crowd neighborhoods, improving robustness under occlusions.
 - **Multi-Stage Optimization** – Progressively refines global scale, root positions, articulated poses, and motion dynamics for stable and accurate results.
-- **Supports Diverse Scenarios** – Gigapixel surveillance, conventional surveillance with complex terrain, and drone-captured videos with dynamic camera motion.
 
 ---
 
