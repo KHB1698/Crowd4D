@@ -4,7 +4,7 @@
 
 🌟Corresponding Author
 
-📄 **[Paper](#)** | 🌍 **[Project Page](#)** | 💻 **[Code](https://github.com/KHB1698/Crowd4D)**
+📄 **[Paper](https://icml.cc/virtual/2026/poster/65335)** | 🌍 **[Project Page](#)** | 💻 **[Code](https://github.com/KHB1698/Crowd4D)**
 
 ![Crowd4D Teaser](assets/Crowd4D.png)
 
